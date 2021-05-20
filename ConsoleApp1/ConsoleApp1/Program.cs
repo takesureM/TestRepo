@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Takesure!");
             Console.WriteLine("Andrew Hello");
+            Console.WriteLine("Russia & Zimbamwe");
         }
     }
 }
