@@ -13,11 +13,17 @@ namespace ConsoleApp1
             Console.WriteLine("We can do it!");
 
 
-            Console.WriteLine("Helloooooooooooooooooooooooooooooo!")
+            Console.WriteLine("Helloooooooooooooooooooooooooooooo!");
 
             Console.WriteLine("dfvfdgfgfgfgfg");
 
             Console.WriteLine("sdlflsdfjlsdfjsdlfjsdlkkjdlgjjdlfdflkkdflbndflbnkkndfn");
+
+            
         }
+
+        public int RepositoryId { get; set; }
+        public string RepositoryName { get; set; }
+
     }
 }
