@@ -9,6 +9,7 @@ namespace ConsoleApp1
             int x = 70;
             int y = 50;
             int z = x + y;
+            Console.WriteLine("skdjfsldnsdkvn");
       }
     }
 }
