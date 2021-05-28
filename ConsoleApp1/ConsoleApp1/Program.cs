@@ -25,5 +25,8 @@ namespace ConsoleApp1
         public int RepositoryId { get; set; }
         public string RepositoryName { get; set; }
 
+        public int FoodId { get; set; }
+        public string FoodName { get; set; }
+
     }
 }
